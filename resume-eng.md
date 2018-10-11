@@ -11,6 +11,7 @@
 ## Summary
 
 I am a Java developer who focuses on **full stack**
+
 * At work, there is a serious cleansing of your own output, focusing on system flexibility and scalability and iterability is a perfect coder.
 * On the team, you can find your own role, focus on a good work plan, challenge your comfort zone to improve your work efficiency and development ability.
 * Always maintain a learning attitude, like to browse the technology forum to understand the new technology of the whole stack, and practice it to expand your technical knowledge.
