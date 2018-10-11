@@ -1,48 +1,50 @@
-# Mengjie Cai
+# Sky Huang
 
-## Android Software Engineer
+## Java Development Engineer
 
-- Phone: +86 1xx-xxxx-xxxx
-- Email: [blankj@qq.com](blankj@qq.com)
-- Blog: [http://blankj.com](http://blankj.com)
-- GitHub: [https://github.com/Blankj](https://github.com/Blankj)
+- Phone: +86 18817577050
+- Email: [sky_1994@outlook.com](mailto:sky_1994@outlook.com)
+- Blog: [https://skyhuangjing.github.io](https://skyhuangjing.github.io)
+- GitHub: [https://github.com/SKYhuangjing](https://github.com/SKYhuangjing)
 
 
 ## Summary
 
-I am an Android developer who deeply love **open source**. I'd like to share my code which may help developers, and they can submit issues to improve the code. I am passionate about building **high quality** apps which have **good user interfaces**. In this case, I create a repository, **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)**, which is well received to help developers practice best in Android. Beyond that, I focus on the development efficiency and knowledge accumulation. I created **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** which has received more than **16k stars** to help developers develop more efficient. Of course, as a programmer, I also pay attention to data structures and algorithms. I create  **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** to solve the problems in LeetCode.
+I am a Java developer who focuses on **full stack**
+* At work, there is a serious cleansing of your own output, focusing on system flexibility and scalability and iterability is a perfect coder.
+* On the team, you can find your own role, focus on a good work plan, challenge your comfort zone to improve your work efficiency and development ability.
+* Always maintain a learning attitude, like to browse the technology forum to understand the new technology of the whole stack, and practice it to expand your technical knowledge.
 
 
 ## Experience
 
-### **Android Software Engineer**  [51NB](https://www.u51.com)
+### **Senior JAVA Development Engineer** [Zenlayer](https://www.zenlayer.com/)
 
 *March 2018 - Present*
 
+In the R&D team. Mainly responsible for financial function development and new technology introduction, the main experience is as follows:
 
-### **Android Software Engineer**  [e-CarX](http://www.ecarx.com.cn)
-
-*February 2017 - March 2018*
-
-I play an important role in developing the basic component in Android team. My main contributions are as follows.
-
-* Writing the document to help team practice best in developing. It promotes code review between members and rapids app development efficiency.
-* Classifying and encapsulating the common component in development reasonably, which improves team development efficiency.
-* Developing a simple, pretty and powerful logger which is based on [marx/xlog](https://github.com/Tencent/mars) to improve development efficiency for team.
-* Wrapping a unified dialogs and toast for team.
-* Provide a statistics library, reducing the amount of team tasks to enhance development efficiency.
+* Responsible for internal operation of the company OSS development and maintenance (html+jfinal)
+* Responsible for the company's front-end product Portal2.0 version front-end interface development and some third-party interface integration (Vue+java)
+* Demonstrate system traffic collection new algorithm logic to ensure accurate traffic data.
+* Refactor the system billing module and optimize the decoupling billing logic.
+* Responsible for researching the architecture of the company's system, large and medium-sized office + small front desk, splitting the system business, providing public business components, and setting up the basic environment for micro-services for the evolution of the subsequent system architecture.
 
 
-### **Android Software Engineer** [53iq](http://www.53iq.com)
+### **JAVA Development Engineer** [Polelink](https://www.polelink.com/)
 
-*June 2015 - February 2017*
+*July 2015 - March 2018*
 
-I mainly engaged in the development of smart kitchen. My main experience is as follows:
+As a core R&D member in the Application Development Group, its main responsibilities are as follows:
 
-* Participate in the construction of the project, choose the reasonable architecture, package by feature appropriately, which promote  development efficiency for  team.
-* Use of native components flexibly to build good user interfaces.
-* Encapsulate public libraries to enhance reusability.
-* Encapsulate the protocol of the electric control board so as to make the protocol more versatile.
+* Participate in the development of the company's internal product application framework: basic tools class extraction, basic service definition and implementation, basic component packaging, framework management, UI development;
+* Data reports for leading company products are based on Vaadin-SpreadSheet design and development;
+* The full-text search service in the leading company platform is based on the implementation of ElasticSearch;
+* Leading project construction, rational subcontracting, making readability better and promoting team development efficiency;
+* Lead new people into the team and arrange their development work;
+* Responsible for the basic operation and maintenance and database maintenance of customer projects;
+
+
 
 
 ## Skills & Expertise
@@ -52,53 +54,54 @@ These are languages, tools, and practices to which I have had exposure over the 
 ### Programming Languages
 
 - [Java](https://www.java.com)^†^
-- [Python](https://www.python.org)
-- [Kotlin](http://kotlinlang.org)
-- [C/C++](http://www.cplusplus.com)
 - [Shell](http://www.linuxshell.it)
 - [JavaScript](https://www.javascript.com)
+- [Vue](https://cn.vuejs.org/)
 - [HTML](https://www.w3.org/html)
 
 
 ### Frameworks & APIs
 
-- [RxAndroid](https://github.com/ReactiveX/RxAndroid)^†^
-- [EventBus](https://github.com/greenrobot/EventBus)^†^
-- [Retrofit](https://github.com/square/retrofit)^†^
-- [Gson](https://github.com/google/gson)^†^
-- [Glide](https://github.com/bumptech/glide)^†^
-- [Dagger2](https://github.com/google/dagger)
+- [SpringBoot](http://spring.io/projects/spring-boot)^†^
+- [Dubbo](https://dubbo.incubator.apache.org/)^†^
+- [JFinal](http://www.jfinal.com/)^†^
+- [OSGI](https://www.osgi.org/)^†^
+- [Kafka](http://kafka.apache.org/)^†^
+- [elasticsearch](https://www.elastic.co/products/elasticsearch)^†^
+- [Redis](https://redis.io/)
 
 
 ### Software & Tools
 
 - [Mac OS X](http://apple.com/macosx)^†^
-- [Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)
-- [Alfred 3](https://www.alfredapp.com)^†^
-- [Android Studio](https://developer.android.com/studio/index.html?hl=zh-cn)^†^
-- [Atom](https://atom.io)^†^
+- [SVN](https://subversion.apache.org/)^†^
 - [Git](https://git-scm.com)^†^
+- [Docker](https://www.docker.com/)^†^
+- [VS code](https://code.visualstudio.com/)^†^
+- [Eclipse](https://www.eclipse.org/)^†^
 - [IntelliJ IDEA](https://www.jetbrains.com/idea)^†^
 - [iTerm](https://www.iterm2.com)^†^
-- [JIRA](https://www.atlassian.com/software/jira)^†^
-- [on-my-zsh](https://github.com/robbyrussell/oh-my-zsh)^†^
+- [Navicat](https://www.navicat.com/en/products)^†^
+- [Medis](https://github.com/luin/medis)
 - [Postman](https://www.getpostman.com)^†^
-- [PyCharm](https://www.jetbrains.com/pycharm)
-- [Source Tree](https://www.sourcetreeapp.com)^†^
-- [XMind](https://www.xmind.cn)
+- [Redmine](https://www.redmine.org/)^†^
+- [Zentao](https://www.zentao.net/)^†^
+- [Fork](https://git-fork.com/)^†^
+- [Mockups](https://balsamiq.com/products/)
 
 
 ## Education
 
-[Zhejiang University Of Media And Communications](http://www.zjicm.edu.cn), Electronic and Information Engineering, 2012 - 2016
+[Shanghai Dianji University](https://www.sdju.edu.cn/), Software Engineering, 2011 - 2015
 
 
 ## Honors and Awards
 
-* The thirteenth [ACM-ICPC](https://icpc.baylor.edu) prize of Zhejiang Province
-* First-class scholarships for 3 times and second-class scholarship for 3 times
+* The 7th National Information Technology Application Level Competition **Provincial Second Prize**;
+* 1 time **First Class Scholarship** and 5 times **Second Class Scholarship**;
+* Received the **School's Outstanding Graduates**.
 
 
 ## Interests
 
-I like to explore and try something that has not been done. I love playing badminton and running in my spare time.
+I like to explore and try new things that I haven't done. Amateurs love watching games and watching American TV.
