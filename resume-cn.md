@@ -10,7 +10,7 @@
 
 ## 自我描述
 
-我是一名关注于**全栈**的Java开发者
+我是一名关注**全栈**技术路线的Java开发者
 
 * 工作中, 对自己的产出有很严重的洁癖, 注重系统的灵活以及可扩展性和可迭代性 是一个要求完美的 coder.
 * 团队中, 能够找到自己的角色, 注重良好的工作计划, 挑战自己的舒适区, 以提升自己的工作效率和开发能力.
@@ -22,13 +22,14 @@
 
 *2018/3 - 至今*
 
-在研发团队中主要负责财务功能研发和新技术引进, 其主要经历如下:
+在研发团队中主要负责采购流程 & 资源管理模研发和新技术引进, 其主要经历如下:
 
-* 负责公司内部运营平台 OSS 开发及维护(html+jfinal)
+* 负责公司内部运营平台 OSS 开发及维护(html+mvc)
 * 负责公司前台产品 Portal2.0 版本前端界面开发及部分第三方接口集成(Vue+java) 
 * 论证系统流量采集新算法逻辑, 确保流量数据准确.
-* 重构系统计费模块, 并负责优化解耦出账逻辑.
-* 负责研究公司系统 大中台+小前台的架构, 拆分系统业务, 提供公共的业务组件, 并着手搭建微服务的基础环境, 供后续系统架构演进.
+* 重构系统计费/订单模块, 并负责优化解耦出账逻辑.
+* 负责 OSS 基于物理机 All in One 架构升级为基于容器微服务组件化的分布式架构(RPC).
+* 负责采购流程 & 资源管理模块的版本迭代, 带领小组成员工作完成任务.
 
 
 ### **JAVA 开发工程师** [Polelink](https://www.polelink.com/)
@@ -60,13 +61,15 @@
 
 ### 框架
 
-- [SpringBoot](http://spring.io/projects/spring-boot)^†^
-- [Dubbo](https://dubbo.incubator.apache.org/)^†^
-- [JFinal](http://www.jfinal.com/)^†^
-- [OSGI](https://www.osgi.org/)^†^
-- [Kafka](http://kafka.apache.org/)^†^
-- [elasticsearch](https://www.elastic.co/products/elasticsearch)^†^
+- [SpringBoot](http://spring.io/projects/spring-boot)
+- [Dubbo](https://dubbo.incubator.apache.org/)
+- [Activiti](https://www.activiti.org/)
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [elasticsearch](https://www.elastic.co/products/elasticsearch)
 - [Redis](https://redis.io/)
+- [JFinal](http://www.jfinal.com/)
+- [OSGI](https://www.osgi.org/)
+- [Kafka](http://kafka.apache.org/)
 
 
 ### 工具软件
@@ -81,11 +84,13 @@
 - [iTerm](https://www.iterm2.com)^†^
 - [Navicat](https://www.navicat.com/en/products)^†^
 - [Medis](https://github.com/luin/medis)
-- [Postman](https://www.getpostman.com)^†^
-- [Redmine](https://www.redmine.org/)^†^
-- [Zentao](https://www.zentao.net/)^†^
+- [Postman](https://www.getpostman.com)
+- [Redmine](https://www.redmine.org/)
+- [Zentao](https://www.zentao.net/)
 - [Fork](https://git-fork.com/)^†^
 - [Mockups](https://balsamiq.com/products/)
+- [Draw.io](https://app.diagrams.net/)^†^
+- [XMind](https://www.xmind.net/)^†^
 
 
 ## 教育经历

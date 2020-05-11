@@ -10,7 +10,7 @@
 
 ## Summary
 
-I am a Java developer who focuses on **full stack**
+I am a Java developer who focuses on the **full stack** technology route
 
 * At work, there is a serious cleansing of your own output, focusing on system flexibility and scalability and iterability is a perfect coder.
 * On the team, you can find your own role, focus on a good work plan, challenge your comfort zone to improve your work efficiency and development ability.
@@ -23,13 +23,14 @@ I am a Java developer who focuses on **full stack**
 
 *March 2018 - Present*
 
-In the R&D team. Mainly responsible for financial function development and new technology introduction, the main experience is as follows:
+The R & D team is mainly responsible for the procurement process & resource management model R & D and the introduction of new technologies. Its main experience is as follows:
 
-* Responsible for internal operation of the company OSS development and maintenance (html+jfinal)
-* Responsible for the company's front-end product Portal2.0 version front-end interface development and some third-party interface integration (Vue+java)
-* Demonstrate system traffic collection new algorithm logic to ensure accurate traffic data.
-* Refactor the system billing module and optimize the decoupling billing logic.
-* Responsible for researching the architecture of the company's system, large and medium-sized office + small front desk, splitting the system business, providing public business components, and setting up the basic environment for micro-services for the evolution of the subsequent system architecture.
+* Responsible for the development and maintenance of the company's internal operating platform OSS (html + mvc)
+* Responsible for the front-end interface development of the company's front-end products Portal2.0 version and some third-party interface integration (Vue + java)
+* Demonstrate new algorithm logic for system flow collection to ensure accurate flow data.
+* Restructure the system billing / order module, and is responsible for optimizing the decoupling logic.
+* Responsible for upgrading OSS based on physical machine All in One architecture to a distributed architecture (RPC) based on container microservices componentization.
+* Responsible for the iteration of the procurement process & resource management module, leading the team members to complete the task.
 
 
 ### **JAVA Development Engineer** [Polelink](https://www.polelink.com/)
@@ -63,13 +64,15 @@ These are languages, tools, and practices to which I have had exposure over the 
 
 ### Frameworks & APIs
 
-- [SpringBoot](http://spring.io/projects/spring-boot)^†^
-- [Dubbo](https://dubbo.incubator.apache.org/)^†^
-- [JFinal](http://www.jfinal.com/)^†^
-- [OSGI](https://www.osgi.org/)^†^
-- [Kafka](http://kafka.apache.org/)^†^
-- [elasticsearch](https://www.elastic.co/products/elasticsearch)^†^
+- [SpringBoot](http://spring.io/projects/spring-boot)
+- [Dubbo](https://dubbo.incubator.apache.org/)
+- [Activiti](https://www.activiti.org/)
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [elasticsearch](https://www.elastic.co/products/elasticsearch)
 - [Redis](https://redis.io/)
+- [JFinal](http://www.jfinal.com/)
+- [OSGI](https://www.osgi.org/)
+- [Kafka](http://kafka.apache.org/)
 
 
 ### Software & Tools
@@ -84,11 +87,13 @@ These are languages, tools, and practices to which I have had exposure over the 
 - [iTerm](https://www.iterm2.com)^†^
 - [Navicat](https://www.navicat.com/en/products)^†^
 - [Medis](https://github.com/luin/medis)
-- [Postman](https://www.getpostman.com)^†^
-- [Redmine](https://www.redmine.org/)^†^
-- [Zentao](https://www.zentao.net/)^†^
+- [Postman](https://www.getpostman.com)
+- [Redmine](https://www.redmine.org/)
+- [Zentao](https://www.zentao.net/)
 - [Fork](https://git-fork.com/)^†^
 - [Mockups](https://balsamiq.com/products/)
+- [Draw.io](https://app.diagrams.net/)^†^
+- [XMind](https://www.xmind.net/)^†^
 
 
 ## Education
